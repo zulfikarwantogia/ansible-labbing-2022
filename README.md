@@ -105,6 +105,8 @@ ansible-playbook -i hosts site.yml
 ```
 ### AWS Regions:
 
+### Dockefile is created to spin up all the env with the docker image ###
+
 Please refer this AWS Region Chart for help
 
 ![Please refer this AWS Region Chart](http://s14.postimg.org/my8ap29sh/AWSRegions.jpg)
